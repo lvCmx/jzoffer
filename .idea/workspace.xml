@@ -2,34 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9aeaf13a-e92d-436d-abe9-ed10d6d445c0" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/common/TreeNodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第三章_高质量的代码/树的子结构.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/数组中出现次数超过一半的数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/连续子数组的最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/之字打印二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉搜索树与双向链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉搜索树的后序遍历序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉树中和为某一值的路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉树的镜像.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/从上往下打印二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/从上往下打印二叉树_按行打印.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/包含min函数的栈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/复杂链表的复制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的组合.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/栈的压入及弹出序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/面试题_45度打印矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/顺时针打印矩阵.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/common/TreeNodeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/第三章_高质量的代码/树的子结构.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/第五章_优化时间和空间效率/数组中出现次数超过一半的数字.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/第五章_优化时间和空间效率/最小的k个数.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/第五章_优化时间和空间效率/连续子数组的最大和.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/解题公式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/递归式.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/题目_不相邻的两个数的最大和.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/题目.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/递归的出口.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/题目.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/扩展_动态规划/连续子数组的最大和/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/第一个只出现一次的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的全排列_去除重复.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/common/ListNodeUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/第五章_优化时间和空间效率/最小的k个数.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/第五章_优化时间和空间效率/最小的k个数.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,98 +33,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="从上往下打印二叉树.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/从上往下打印二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="从上往下打印二叉树_按行打印.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/从上往下打印二叉树_按行打印.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="之字打印二叉树.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/之字打印二叉树.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="21" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二叉搜索树的后序遍历序列.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉搜索树的后序遍历序列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二叉树中和为某一值的路径.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉树中和为某一值的路径.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="复杂链表的复制.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/复杂链表的复制.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二叉搜索树与双向链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉搜索树与双向链表.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="字符串的排列.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="41" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="字符串的组合.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的组合.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+            <state relative-caret-position="540">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -141,17 +54,64 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等.java">
+      <file leaf-file-name="连续子数组的最大和.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/连续子数组的最大和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#695#703#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="120">
+              <caret line="8" column="67" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="67" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/连续子数组的最大和/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../小象_leecode/src/common/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ListNodeUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../小象_leecode/src/common/ListNodeUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="题目.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/题目.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="递归的出口.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/递归的出口.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="递归式.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/递归式.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -176,15 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/Singleton模式.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/二维数组中的查找.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/替换空格.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/从尾到头打印链表.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/重建二叉树.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/用两个栈实现队列.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/用两个队列实现一个栈.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/快速排序.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/旋转数组的最小数.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/斐波那契数列.java" />
         <option value="$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/跳台阶与变态跳台阶.java" />
@@ -206,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/main/java/第三章_高质量的代码/合并两个排序的链表.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/数组中出现次数超过一半的数字.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java" />
         <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/连续子数组的最大和.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/TreeNodeUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/Node.java" />
@@ -224,9 +174,19 @@
         <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉树中和为某一值的路径.java" />
         <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/复杂链表的复制.java" />
         <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉搜索树与双向链表.java" />
-        <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java" />
         <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的组合.java" />
         <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等.java" />
+        <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java" />
+        <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的全排列_去除重复.java" />
+        <option value="$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/第一个只出现一次的字符.java" />
+        <option value="$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/不能相邻的两个数的最大和/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/扩展_动态规划/连续子数组的最大和/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/字符串常用算法/马拉车算法/Manacher.java" />
       </list>
     </option>
   </component>
@@ -252,7 +212,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+    <option name="x" value="434" />
+    <option name="y" value="80" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
   </component>
@@ -263,6 +224,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -295,7 +257,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="第五章_优化时间和空间效率" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jzoffer" type="b2602c69:ProjectViewProjectNode" />
@@ -309,18 +271,25 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/扩展_动态规划" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数" />
+      <recent name="$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和" />
+      <recent name="$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -334,14 +303,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等">
-    <configuration name="字符串的排列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第四章_解决面试的思路.字符串的排列" />
+  <component name="RunManager" selected="Application.Manacher">
+    <configuration name="用两个队列实现一个栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第二章_面试需要的基础知识.用两个队列实现一个栈" />
       <module name="jzoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="第四章_解决面试的思路.*" />
+          <option name="PATTERN" value="第二章_面试需要的基础知识.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="扩展_动态规划.不能相邻的两个数的最大和.Main" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="扩展_动态规划.不能相邻的两个数的最大和.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="扩展_动态规划.求数组中的数之和为指定的数.Main" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="扩展_动态规划.求数组中的数之和为指定的数.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="扩展_动态规划.连续子数组的最大和.Main" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="扩展_动态规划.连续子数组的最大和.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="扩展_动态规划.最大的利益.Main" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="扩展_动态规划.最大的利益.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Manacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串常用算法.马拉车算法.Manacher" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="字符串常用算法.马拉车算法.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第三章_高质量的代码.反转链表" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第三章_高质量的代码.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="数组中出现次数超过一半的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第五章_优化时间和空间效率.数组中出现次数超过一半的数字" />
+      <module name="jzoffer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第五章_优化时间和空间效率.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,17 +405,6 @@
     </configuration>
     <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第二章_面试需要的基础知识.斐波那契数列" />
-      <module name="jzoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第二章_面试需要的基础知识.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="用两个队列实现一个栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第二章_面试需要的基础知识.用两个队列实现一个栈" />
       <module name="jzoffer" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -445,52 +480,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第三章_高质量的代码.反转链表" />
-      <module name="jzoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第三章_高质量的代码.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="数组中出现次数超过一半的数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第五章_优化时间和空间效率.数组中出现次数超过一半的数字" />
-      <module name="jzoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第五章_优化时间和空间效率.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第四章_解决面试的思路.思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等" />
-      <module name="jzoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第四章_解决面试的思路.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="最小的k个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第五章_优化时间和空间效率.最小的k个数" />
-      <module name="jzoffer" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第五章_优化时间和空间效率.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -531,14 +522,18 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.最小的k个数" />
-      <item itemvalue="Application.字符串的排列" />
-      <item itemvalue="Application.思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等" />
+      <item itemvalue="Application.用两个队列实现一个栈" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (3)" />
+      <item itemvalue="Application.Manacher" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等" />
-        <item itemvalue="Application.字符串的排列" />
+        <item itemvalue="Application.Manacher" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +559,12 @@
       <workItem from="1551447969821" duration="15184000" />
       <workItem from="1551497457862" duration="9327000" />
       <workItem from="1551575805080" duration="14325000" />
-      <workItem from="1551602007313" duration="563000" />
+      <workItem from="1551602007313" duration="4614000" />
+      <workItem from="1551664650032" duration="14093000" />
+      <workItem from="1551749880944" duration="5153000" />
+      <workItem from="1551793154711" duration="4205000" />
+      <workItem from="1551836201568" duration="685000" />
+      <workItem from="1551926819635" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="第二章">
       <created>1550928017784</created>
@@ -623,7 +623,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68182000" />
+    <option name="totallyTimeSpent" value="96411000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -635,37 +635,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="0" />
-    <editor active="true" />
+    <frame x="434" y="80" width="1440" height="812" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32867134" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31748253" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32867134" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2932761" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31473532" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36503497" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32587412" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -706,114 +705,38 @@
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/test.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/扩展_动态规划/连续子数组的最大和/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/字符串常用算法/马拉车算法/Manacher.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/字符串常用算法/马拉车算法/Manacher.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="9" />
+      <option name="time" value="16" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/二维数组中的查找.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/替换空格.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/从尾到头打印链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/重建二叉树.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/用两个栈实现队列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/ArrayDeque.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2325">
-          <caret line="191" column="11" selection-start-line="191" selection-start-column="11" selection-end-line="191" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/用两个队列实现一个栈.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/旋转数组的最小数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/斐波那契数列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/跳台阶与变态跳台阶.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/二进制中1的个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第二章_面试需要的基础知识/快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/PartitionNum.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/NextMaxNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/数值的整数次方.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/打印1至最大的n位数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -821,27 +744,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/ListNodeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/在O1时间删除链表结点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -866,24 +772,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/奇数位于前面偶数位于后面并且不改原在原数组中的顺序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="31" column="38" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#713#722#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/链表中倒数第k个结点.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -907,34 +799,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/数组中出现次数超过一半的数字.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/TreeSet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3254">
           <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/连续子数组的最大和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -950,9 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="80" column="44" selection-start-line="80" selection-start-column="44" selection-end-line="80" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,20 +828,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/顺时针打印矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="70" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/二叉树的镜像.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -991,20 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="66" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="11" selection-end-column="66" />
-          <folding>
-            <element signature="e#172#181#0" expanded="true" />
-            <element signature="e#226#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/栈的压入及弹出序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-          <folding>
-            <element signature="e#479#488#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,19 +860,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/从上往下打印二叉树_按行打印.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state>
           <caret line="20" column="5" selection-start-line="11" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1039,16 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/复杂链表的复制.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1056,9 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1079,31 +901,167 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的组合.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/第三章_高质量的代码/奇数位于前面偶数位于后面并且不改原在原数组中的顺序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="41" column="5" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
+        <state relative-caret-position="336">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/思考题_8个数字在正方体上三组相对的面上的4个顶点的和都相等.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="570">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/复杂链表的复制.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/栈的压入及弹出序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/顺时针打印矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/最小的k个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的组合.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="31" column="34" lean-forward="true" selection-start-line="29" selection-start-column="16" selection-end-line="31" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第四章_解决面试的思路/字符串的全排列_去除重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/数组中出现次数超过一半的数字.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/第一个只出现一次的字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#695#703#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/题目.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/解题步骤1.png" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/解题公式.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/递归式.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/题目.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/递归的出口.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/求数组中的数之和为指定的数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/最大的利益/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/不能相邻的两个数的最大和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/第五章_优化时间和空间效率/连续子数组的最大和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="67" selection-start-line="7" selection-start-column="8" selection-end-line="8" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/字符串常用算法/马拉车算法/Manacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/扩展_动态规划/连续子数组的最大和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../小象_leecode/src/common/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../小象_leecode/src/common/ListNodeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
