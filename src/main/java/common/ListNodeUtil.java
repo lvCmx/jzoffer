@@ -7,7 +7,7 @@ public class ListNodeUtil {
     //循环输出链表
     public static void print(ListNode node){
         while(null!=node){
-            System.out.println(node.key);
+            System.out.println(node.value);
             node=node.next;
         }
     }
@@ -45,7 +45,7 @@ public class ListNodeUtil {
         }
         node=node.next;
         while(null!=node){
-            System.out.println(node.key);
+            System.out.println(node.value);
             node=node.next;
         }
     }
