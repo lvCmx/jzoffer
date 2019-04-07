@@ -3,6 +3,7 @@ package common;
 public class Node {
     public Node lnode;
     public Node rnode;
+    public Node parent;
     public int data;
 
     public Node(int data) {
