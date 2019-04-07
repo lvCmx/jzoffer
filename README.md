@@ -52,4 +52,7 @@ java版剑指offer代码，包含剑指offer所有算法代码，统一用java�
 [面试41.和为s的连续正数序列](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.java)  
 [面试42.翻转单词顺序](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F.java)  
 [面试42.左旋字符串](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E5%AD%97%E7%AC%A6%E5%8F%8D%E8%BD%AC.java)  
-
+## 第八章 英文版新增面试题
+[面试51.数组中重复的数字](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.java)  
+[面试56.链表中环的入口结点](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9.java)  
+[面试57.删除链表中重复的结点](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.java)  
