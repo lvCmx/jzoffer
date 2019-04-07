@@ -1,5 +1,11 @@
 # jzoffer
-java版剑指offer代码，包含剑指offer所有算法代码，统一用java语言进行了实现，对算法感兴趣的同学可以一起学习一下，或者将要找工作面试笔试的可以参考一下
+java版剑指offer代码，包含剑指offer所有算法代码，统一用java语言进行了实现，对算法感兴趣的同学可以一起学习一下，或者将要找工作面试笔试的可以参考一下  
+
+## 算法口决：  
+* 难题首选动归
+* 受阻贪心暴力
+* 考虑分治思想
+* 配合排序哈希
 ## 第二章 面试需要的基础知识
 [面试题2.实现Singleton模式](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E4%BA%8C%E7%AB%A0_%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/Singleton%E6%A8%A1%E5%BC%8F.java)  
 [面试题3.二维数组中的查找](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E4%BA%8C%E7%AB%A0_%E9%9D%A2%E8%AF%95%E9%9C%80%E8%A6%81%E7%9A%84%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/%E4%BA%8C%E7%BB%B4%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9F%A5%E6%89%BE.java)  
@@ -52,4 +58,12 @@ java版剑指offer代码，包含剑指offer所有算法代码，统一用java�
 [面试41.和为s的连续正数序列](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E5%92%8C%E4%B8%BAs%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97.java)  
 [面试42.翻转单词顺序](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F.java)  
 [面试42.左旋字符串](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC%E5%85%AD%E7%AB%A0_%E9%9D%A2%E8%AF%95%E4%B8%AD%E7%9A%84%E5%90%84%E9%A1%B9%E8%83%BD%E5%8A%9B/%E5%AD%97%E7%AC%A6%E5%8F%8D%E8%BD%AC.java)  
-
+## 第八章 英文版新增面试题
+[面试51.数组中重复的数字](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97.java)  
+[面试56.链表中环的入口结点](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9.java)  
+[面试57.删除链表中重复的结点](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E7%AC%AC8%E7%AB%A0_%E8%8B%B1%E6%96%87%E7%89%88%E6%96%B0%E5%A2%9E%E9%9D%A2%E8%AF%95%E9%A2%98/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9.java)  
+## 扩展——动态规划
+[不能相邻的两个数的最大和](https://github.com/lvCmx/jzoffer/tree/master/src/main/java/%E6%89%A9%E5%B1%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E4%B8%8D%E8%83%BD%E7%9B%B8%E9%82%BB%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C)  
+[最大的利益](https://github.com/lvCmx/jzoffer/tree/master/src/main/java/%E6%89%A9%E5%B1%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%9C%80%E5%A4%A7%E7%9A%84%E5%88%A9%E7%9B%8A)  
+[求数组中的数之和为指定的数](https://github.com/lvCmx/jzoffer/tree/master/src/main/java/%E6%89%A9%E5%B1%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E6%B1%82%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%95%B0%E4%B9%8B%E5%92%8C%E4%B8%BA%E6%8C%87%E5%AE%9A%E7%9A%84%E6%95%B0)  
+[连续子数组的最大和](https://github.com/lvCmx/jzoffer/blob/master/src/main/java/%E6%89%A9%E5%B1%95_%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C/Main.java)
